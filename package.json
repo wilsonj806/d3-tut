@@ -1,0 +1,17 @@
+{
+  "name": "d3-tut",
+  "version": "1.0.0",
+  "description": "D3 tutorial repo",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "author": "Wilson Jiang",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.15.0"
+  }
+}
